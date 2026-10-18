@@ -10,18 +10,24 @@ game_id,game,week,market,book,side,number,price,p_model,p_push,p_breakeven,ev,st
 2026_07_DAL_PHI,DAL@PHI,7,winner,kalshi,PHI,,181,0.42,0.0,0.356,0.182,0.025,,PLAY PHI +6.0,KXNFLGAME-26OCT26DALPHI-PHI,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct26dalphi
 2026_07_DAL_PHI,DAL@PHI,7,spread,dk,PHI,5.5,-110,0.606,0.0,0.524,0.158,0.0433,2.68,PLAY PHI +6.0,,
 2026_06_WAS_SF,WAS@SF,6,winner,kalshi,WAS,,331,0.261,0.0,0.232,0.127,0.0096,,,KXNFLGAME-26OCT19WASSF-WAS,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct19wassf
+2026_07_CIN_BAL,CIN@BAL,7,spread,dk,CIN,3.5,-120,0.605,0.0,0.545,0.11,0.0329,2.52,PLAY CIN +3.0,,
 2026_07_PIT_NO,PIT@NO,7,spread,kalshi,PIT,-3.5,134,0.473,0.0,0.427,0.106,0.0198,0.27,,KXNFLSPREAD-26OCT25PITNO-PIT4,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25pitno
+2026_07_CIN_BAL,CIN@BAL,7,spread,mgm,CIN,3.0,-105,0.524,0.081,0.512,0.105,0.0275,2.02,PLAY CIN +3.0,,
 2026_06_DAL_GB,DAL@GB,6,spread,pinnacle,GB,1.0,-108,0.552,0.024,0.519,0.086,0.0234,2.7,PLAY GB +1.5,,
+2026_07_CIN_BAL,CIN@BAL,7,spread,kalshi,CIN,3.5,-126,0.605,0.0,0.558,0.086,0.0269,2.52,PLAY CIN +3.0,KXNFLSPREAD-26OCT25CINBAL-BAL4,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25cinbal
 2026_07_NYG_HOU,NYG@HOU,7,spread,mgm,NYG,9.0,-108,0.558,0.01,0.519,0.084,0.0226,0.34,,,
 2026_07_NYG_HOU,NYG@HOU,7,spread,dk,NYG,9.5,-110,0.567,0.0,0.524,0.083,0.0229,0.84,,,
+2026_07_CIN_BAL,CIN@BAL,7,spread,fd,CIN,3.0,-110,0.524,0.081,0.524,0.082,0.0225,2.02,PLAY CIN +3.0,,
 2026_07_PIT_NO,PIT@NO,7,spread,fd,PIT,-1.5,-115,0.579,0.0,0.535,0.082,0.0237,2.27,,,
 2026_06_DAL_GB,DAL@GB,6,spread,lowvig,GB,0.0,-103,0.545,0.007,0.507,0.081,0.0207,1.7,PLAY GB +1.5,,
+2026_07_CIN_BAL,CIN@BAL,7,winner,kalshi,CIN,,129,0.472,0.0,0.437,0.08,0.0157,,PLAY CIN +3.0,KXNFLGAME-26OCT25CINBAL-CIN,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25cinbal
 2026_07_PIT_NO,PIT@NO,7,spread,kalshi,PIT,-1.5,-116,0.579,0.0,0.537,0.078,0.0226,2.27,,KXNFLSPREAD-26OCT25PITNO-PIT2,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25pitno
 2026_06_DAL_GB,DAL@GB,6,spread,mgm,GB,1.0,-110,0.552,0.024,0.524,0.077,0.0212,2.7,PLAY GB +1.5,,
 2026_07_PIT_NO,PIT@NO,7,spread,betrivers,PIT,-2.0,-112,0.555,0.024,0.528,0.074,0.0207,1.77,,,
+2026_07_CIN_BAL,CIN@BAL,7,spread,betrivers,CIN,3.0,-112,0.524,0.081,0.528,0.073,0.0205,2.02,PLAY CIN +3.0,,
 2026_07_GB_DET,GB@DET,7,spread,dk,DET,-3.0,-115,0.529,0.08,0.535,0.07,0.02,2.74,,,
-2026_07_PIT_NO,PIT@NO,7,spread,mgm,PIT,-2.5,-108,0.555,0.0,0.519,0.068,0.0184,1.27,,,
 2026_07_PIT_NO,PIT@NO,7,winner,kalshi,PIT,,-131,0.606,0.0,0.567,0.068,0.0225,,,KXNFLGAME-26OCT25PITNO-PIT,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25pitno
+2026_07_PIT_NO,PIT@NO,7,spread,mgm,PIT,-2.5,-108,0.555,0.0,0.519,0.068,0.0184,1.27,,,
 2026_07_PIT_NO,PIT@NO,7,spread,dk,PIT,-2.5,-110,0.555,0.0,0.524,0.059,0.0161,1.27,,,
 2026_06_DAL_GB,DAL@GB,6,winner,kalshi,GB,,-107,0.548,0.0,0.518,0.059,0.0162,,PLAY GB +1.5,KXNFLGAME-26OCT18DALGB-GB,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct18dalgb
 2026_06_DAL_GB,DAL@GB,6,spread,bovada,GB,1.0,-115,0.552,0.024,0.535,0.055,0.0159,2.7,PLAY GB +1.5,,
@@ -31,70 +37,66 @@ game_id,game,week,market,book,side,number,price,p_model,p_push,p_breakeven,ev,st
 2026_06_DAL_GB,DAL@GB,6,spread,kalshi,GB,-1.5,101,0.521,0.0,0.498,0.046,0.0115,0.2,PLAY GB +1.5,KXNFLSPREAD-26OCT18DALGB-GB2,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct18dalgb
 2026_07_KC_SEA,KC@SEA,7,spread,dk,SEA,-1.5,-110,0.548,0.0,0.524,0.046,0.0127,1.17,,,
 2026_06_DAL_GB,DAL@GB,6,spread,betrivers,GB,-0.5,-110,0.545,0.0,0.524,0.04,0.0109,1.2,PLAY GB +1.5,,
+2026_07_TB_CAR,TB@CAR,7,spread,kalshi,CAR,-2.5,-131,0.587,0.0,0.567,0.036,0.0117,2.44,,KXNFLSPREAD-26OCT25TBCAR-CAR3,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25tbcar
 2026_06_DAL_GB,DAL@GB,6,spread,kalshi,GB,2.5,-137,0.599,0.0,0.578,0.036,0.0125,4.2,PLAY GB +1.5,KXNFLSPREAD-26OCT18DALGB-DAL3,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct18dalgb
 2026_07_IND_MIN,IND@MIN,7,spread,fd,MIN,-5.5,-115,0.554,0.0,0.535,0.035,0.0101,2.89,,,
 2026_07_IND_MIN,IND@MIN,7,spread,betrivers,MIN,-6.0,-107,0.515,0.039,0.517,0.035,0.0093,2.39,,,
-2026_07_PIT_NO,PIT@NO,7,spread,kalshi,PIT,-2.5,-116,0.555,0.0,0.537,0.033,0.0094,1.27,,KXNFLSPREAD-26OCT25PITNO-PIT3,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25pitno
 2026_07_KC_SEA,KC@SEA,7,spread,mgm,SEA,-2.0,-108,0.523,0.025,0.519,0.033,0.0088,0.67,,,
-2026_07_KC_SEA,KC@SEA,7,winner,kalshi,SEA,,-126,0.575,0.0,0.557,0.032,0.0102,,,KXNFLGAME-26OCT25KCSEA-SEA,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25kcsea
+2026_07_PIT_NO,PIT@NO,7,spread,kalshi,PIT,-2.5,-116,0.555,0.0,0.537,0.033,0.0094,1.27,,KXNFLSPREAD-26OCT25PITNO-PIT3,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25pitno
 2026_06_DAL_GB,DAL@GB,6,spread,kalshi,GB,1.5,-126,0.575,0.0,0.558,0.032,0.0101,3.2,PLAY GB +1.5,KXNFLSPREAD-26OCT18DALGB-DAL2,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct18dalgb
+2026_07_KC_SEA,KC@SEA,7,winner,kalshi,SEA,,-126,0.575,0.0,0.557,0.032,0.0102,,,KXNFLGAME-26OCT25KCSEA-SEA,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25kcsea
 2026_06_DAL_GB,DAL@GB,6,spread,fd,GB,-1.5,-102,0.521,0.0,0.505,0.031,0.0079,0.2,PLAY GB +1.5,,
 2026_07_IND_MIN,IND@MIN,7,spread,mgm,MIN,-6.0,-108,0.515,0.039,0.519,0.03,0.0082,2.39,,,
+2026_07_TB_CAR,TB@CAR,7,spread,fd,CAR,-3.0,-115,0.506,0.081,0.535,0.027,0.0079,1.94,,,
 2026_07_KC_SEA,KC@SEA,7,spread,fd,SEA,-1.5,-115,0.548,0.0,0.535,0.025,0.007,1.17,,,
 2026_06_DAL_GB,DAL@GB,6,spread,kalshi,GB,4.5,-218,0.702,0.0,0.686,0.024,0.0132,6.2,PLAY GB +1.5,KXNFLSPREAD-26OCT18DALGB-DAL5,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct18dalgb
 2026_07_DEN_ARI,DEN@ARI,7,spread,fd,DEN,-4.5,-105,0.524,0.0,0.512,0.022,0.0058,2.04,,,
 2026_07_IND_MIN,IND@MIN,7,spread,dk,MIN,-6.0,-110,0.515,0.039,0.524,0.022,0.0059,2.39,,,
-2026_07_TB_CAR,TB@CAR,7,spread,kalshi,CAR,-2.5,-131,0.58,0.0,0.567,0.022,0.0073,2.17,,KXNFLSPREAD-26OCT25TBCAR-CAR3,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25tbcar
 2026_07_GB_DET,GB@DET,7,winner,kalshi,DET,,-183,0.659,0.0,0.646,0.02,0.0089,,,KXNFLGAME-26OCT25GBDET-DET,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25gbdet
+2026_07_TB_CAR,TB@CAR,7,winner,kalshi,CAR,,-168,0.638,0.0,0.627,0.018,0.0074,,,KXNFLGAME-26OCT25TBCAR-CAR,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25tbcar
+2026_07_NE_CHI,NE@CHI,7,spread,betrivers,NE,3.0,-115,0.501,0.081,0.535,0.018,0.0053,1.2,,,
 2026_07_CLE_TEN,CLE@TEN,7,spread,betrivers,TEN,2.5,-110,0.533,0.0,0.524,0.017,0.0046,1.81,,,
+2026_07_TB_CAR,TB@CAR,7,spread,mgm,CAR,-3.0,-118,0.506,0.081,0.541,0.016,0.0048,1.94,,,
 2026_06_DAL_GB,DAL@GB,6,spread,kalshi,GB,3.5,-199,0.676,0.0,0.666,0.016,0.0077,5.2,PLAY GB +1.5,KXNFLSPREAD-26OCT18DALGB-DAL4,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct18dalgb
+2026_07_TB_CAR,TB@CAR,7,spread,betrivers,CAR,-3.0,-118,0.506,0.081,0.541,0.016,0.0048,1.94,,,
 2026_07_NYG_HOU,NYG@HOU,7,winner,kalshi,NYG,,280,0.267,0.0,0.263,0.015,0.0013,,,KXNFLGAME-26OCT25NYGHOU-NYG,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25nyghou
-2026_07_TB_CAR,TB@CAR,7,spread,fd,CAR,-3.0,-115,0.498,0.081,0.535,0.013,0.0038,1.67,,,
 2026_07_LA_LV,LA@LV,7,spread,fd,LV,6.5,-118,0.548,0.0,0.541,0.012,0.0035,0.23,,,
-2026_07_CIN_BAL,CIN@BAL,7,spread,dk,CIN,3.5,-120,0.551,0.0,0.545,0.01,0.0031,0.57,,,
 2026_07_GB_DET,GB@DET,7,spread,fd,DET,-3.5,-110,0.529,0.0,0.524,0.01,0.0028,2.24,,,
+2026_07_TB_CAR,TB@CAR,7,spread,dk,CAR,-3.0,-120,0.506,0.081,0.545,0.009,0.0027,1.94,,,
 2026_07_DEN_ARI,DEN@ARI,7,spread,mgm,DEN,-4.5,-108,0.524,0.0,0.519,0.008,0.0022,2.04,,,
-2026_07_TB_CAR,TB@CAR,7,winner,kalshi,CAR,,-168,0.631,0.0,0.627,0.006,0.0025,,,KXNFLGAME-26OCT25TBCAR-CAR,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25tbcar
+2026_07_NE_CHI,NE@CHI,7,spread,fd,NE,3.0,-118,0.501,0.081,0.541,0.007,0.0022,1.2,,,
+2026_07_NE_CHI,NE@CHI,7,spread,mgm,NE,3.0,-118,0.501,0.081,0.541,0.007,0.0022,1.2,,,
 2026_07_LA_LV,LA@LV,7,winner,kalshi,LV,,208,0.327,0.0,0.325,0.006,0.0008,,,KXNFLGAME-26OCT25LARLV-LV,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25larlv
-2026_07_TB_CAR,TB@CAR,7,spread,mgm,CAR,-3.0,-118,0.498,0.081,0.541,0.002,0.0006,1.67,,,
-2026_07_TB_CAR,TB@CAR,7,spread,betrivers,CAR,-3.0,-118,0.498,0.081,0.541,0.002,0.0006,1.67,,,
 2026_07_GB_DET,GB@DET,7,spread,betrivers,DET,-3.5,-112,0.529,0.0,0.528,0.001,0.0004,2.24,,,
-2026_07_DEN_ARI,DEN@ARI,7,spread,dk,DEN,-4.5,-110,0.524,0.0,0.524,-0.001,0.0,2.04,,,
 2026_07_KC_SEA,KC@SEA,7,spread,betrivers,SEA,-2.5,-110,0.523,0.0,0.524,-0.001,0.0,0.17,,,
-2026_07_CIN_BAL,CIN@BAL,7,spread,mgm,CIN,3.0,-105,0.469,0.082,0.512,-0.002,0.0,0.07,,,
-2026_07_NE_CHI,NE@CHI,7,spread,betrivers,NE,3.0,-115,0.49,0.082,0.535,-0.003,0.0,0.79,,,
-2026_07_TB_CAR,TB@CAR,7,spread,dk,CAR,-3.0,-120,0.498,0.081,0.545,-0.005,0.0,1.67,,,
+2026_07_DEN_ARI,DEN@ARI,7,spread,dk,DEN,-4.5,-110,0.524,0.0,0.524,-0.001,0.0,2.04,,,
 2026_07_IND_MIN,IND@MIN,7,winner,kalshi,MIN,,-276,0.726,0.0,0.734,-0.01,0.0,,,KXNFLGAME-26OCT25INDMIN-MIN,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25indmin
 2026_06_WAS_SF,WAS@SF,6,spread,kalshi,WAS,9.5,-131,0.56,0.0,0.567,-0.012,0.0,0.6,,KXNFLSPREAD-26OCT19WASSF-SF10,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct19wassf
-2026_07_CIN_BAL,CIN@BAL,7,spread,kalshi,CIN,3.5,-126,0.551,0.0,0.558,-0.012,0.0,0.57,,KXNFLSPREAD-26OCT25CINBAL-BAL4,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25cinbal
-2026_07_NE_CHI,NE@CHI,7,spread,fd,NE,3.0,-118,0.49,0.082,0.541,-0.014,0.0,0.79,,,
-2026_07_NE_CHI,NE@CHI,7,spread,mgm,NE,3.0,-118,0.49,0.082,0.541,-0.014,0.0,0.79,,,
+2026_07_NE_CHI,NE@CHI,7,spread,kalshi,NE,2.5,-103,0.501,0.0,0.507,-0.012,0.0,0.7,,KXNFLSPREAD-26OCT22NECHI-CHI3,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct22nechi
 2026_07_CLE_TEN,CLE@TEN,7,winner,kalshi,TEN,,105,0.48,0.0,0.487,-0.014,0.0,,,KXNFLGAME-26OCT25CLETEN-TEN,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25cleten
 2026_06_WAS_SF,WAS@SF,6,spread,kalshi,WAS,10.5,-154,0.595,0.0,0.606,-0.018,0.0,1.6,,KXNFLSPREAD-26OCT19WASSF-SF11,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct19wassf
-2026_07_CIN_BAL,CIN@BAL,7,spread,fd,CIN,3.0,-110,0.469,0.082,0.524,-0.022,0.0,0.07,,,
+2026_07_NE_CHI,NE@CHI,7,winner,kalshi,NE,,119,0.449,0.0,0.457,-0.018,0.0,,,KXNFLGAME-26OCT22NECHI-NE,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct22nechi
+2026_07_NE_CHI,NE@CHI,7,spread,dk,NE,2.5,-105,0.501,0.0,0.512,-0.021,0.0,0.7,,,
 2026_07_DEN_ARI,DEN@ARI,7,winner,kalshi,DEN,,-228,0.68,0.0,0.695,-0.022,0.0,,,KXNFLGAME-26OCT25DENARI-DEN,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25denari
 2026_07_SF_ATL,SF@ATL,7,winner,kalshi,ATL,,189,0.336,0.0,0.345,-0.028,0.0,,,KXNFLGAME-26OCT25SFATL-ATL,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25sfatl
 2026_07_CLE_TEN,CLE@TEN,7,spread,dk,TEN,1.5,-110,0.508,0.0,0.524,-0.03,0.0,0.81,,,
-2026_07_CIN_BAL,CIN@BAL,7,spread,betrivers,CIN,3.0,-112,0.469,0.082,0.528,-0.03,0.0,0.07,,,
 2026_07_SF_ATL,SF@ATL,7,spread,dk,SF,-4.5,-110,0.506,0.0,0.524,-0.034,0.0,1.43,,,
 2026_07_SF_ATL,SF@ATL,7,spread,mgm,SF,-4.5,-110,0.506,0.0,0.524,-0.034,0.0,1.43,,,
-2026_07_NE_CHI,NE@CHI,7,spread,kalshi,NE,2.5,-103,0.49,0.0,0.507,-0.035,0.0,0.29,,KXNFLSPREAD-26OCT22NECHI-CHI3,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct22nechi
 2026_07_CLE_TEN,CLE@TEN,7,spread,fd,TEN,1.5,-112,0.508,0.0,0.528,-0.038,0.0,0.81,,,
-2026_07_NE_CHI,NE@CHI,7,winner,kalshi,NE,,119,0.437,0.0,0.457,-0.043,0.0,,,KXNFLGAME-26OCT22NECHI-NE,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct22nechi
-2026_07_NE_CHI,NE@CHI,7,spread,dk,NE,2.5,-105,0.49,0.0,0.512,-0.044,0.0,0.29,,,
-2026_07_CIN_BAL,CIN@BAL,7,winner,kalshi,CIN,,129,0.417,0.0,0.437,-0.045,0.0,,,KXNFLGAME-26OCT25CINBAL-CIN,https://kalshi.com/markets/kxnflgame/nfl-game/kxnflgame-26oct25cinbal
+2026_07_NE_CHI,NE@CHI,7,spread,kalshi,NE,3.5,-154,0.583,0.0,0.606,-0.039,0.0,1.7,,KXNFLSPREAD-26OCT22NECHI-CHI4,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct22nechi
+2026_07_NE_CHI,NE@CHI,7,spread,kalshi,NE,4.5,-175,0.611,0.0,0.636,-0.04,0.0,2.7,,KXNFLSPREAD-26OCT22NECHI-CHI5,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct22nechi
+2026_07_NE_CHI,NE@CHI,7,spread,kalshi,NE,5.5,-199,0.634,0.0,0.666,-0.047,0.0,3.7,,KXNFLSPREAD-26OCT22NECHI-CHI6,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct22nechi
 2026_07_SF_ATL,SF@ATL,7,spread,betrivers,SF,-5.0,-109,0.482,0.024,0.522,-0.052,0.0,0.93,,,
 2026_07_SF_ATL,SF@ATL,7,spread,fd,SF,-4.5,-115,0.506,0.0,0.535,-0.054,0.0,1.43,,,
-2026_07_NE_CHI,NE@CHI,7,spread,kalshi,NE,4.5,-175,0.6,0.0,0.636,-0.057,0.0,2.29,,KXNFLSPREAD-26OCT22NECHI-CHI5,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct22nechi
-2026_07_NE_CHI,NE@CHI,7,spread,kalshi,NE,3.5,-154,0.571,0.0,0.606,-0.058,0.0,1.29,,KXNFLSPREAD-26OCT22NECHI-CHI4,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct22nechi
+2026_07_TB_CAR,TB@CAR,7,spread,kalshi,CAR,-1.5,-183,0.611,0.0,0.647,-0.055,0.0,3.44,,KXNFLSPREAD-26OCT25TBCAR-CAR2,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25tbcar
 2026_07_SF_ATL,SF@ATL,7,spread,kalshi,SF,-4.5,-116,0.506,0.0,0.537,-0.058,0.0,1.43,,KXNFLSPREAD-26OCT25SFATL-SF5,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25sfatl
-2026_07_NE_CHI,NE@CHI,7,spread,kalshi,NE,5.5,-199,0.623,0.0,0.666,-0.064,0.0,3.29,,KXNFLSPREAD-26OCT22NECHI-CHI6,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct22nechi
-2026_07_TB_CAR,TB@CAR,7,spread,kalshi,CAR,-1.5,-183,0.604,0.0,0.647,-0.066,0.0,3.17,,KXNFLSPREAD-26OCT25TBCAR-CAR2,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25tbcar
+2026_07_CIN_BAL,CIN@BAL,7,spread,kalshi,CIN,5.5,-276,0.656,0.0,0.734,-0.106,0.0,4.52,PLAY CIN +3.0,KXNFLSPREAD-26OCT25CINBAL-BAL6,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25cinbal
+2026_07_CIN_BAL,CIN@BAL,7,spread,kalshi,CIN,4.5,-251,0.633,0.0,0.715,-0.114,0.0,3.52,PLAY CIN +3.0,KXNFLSPREAD-26OCT25CINBAL-BAL5,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25cinbal
 2026_07_SF_ATL,SF@ATL,7,spread,kalshi,SF,-2.5,-228,0.615,0.0,0.695,-0.116,0.0,3.43,,KXNFLSPREAD-26OCT25SFATL-SF3,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25sfatl
 2026_07_SF_ATL,SF@ATL,7,spread,kalshi,SF,-1.5,-263,0.638,0.0,0.725,-0.119,0.0,4.43,,KXNFLSPREAD-26OCT25SFATL-SF2,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25sfatl
-2026_07_TB_CAR,TB@CAR,7,spread,kalshi,CAR,-3.5,-137,0.498,0.0,0.578,-0.138,0.0,1.17,,KXNFLSPREAD-26OCT25TBCAR-CAR4,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25tbcar
-2026_07_TB_CAR,TB@CAR,7,spread,kalshi,CAR,-4.5,-121,0.47,0.0,0.548,-0.142,0.0,0.17,,KXNFLSPREAD-26OCT25TBCAR-CAR5,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25tbcar
-2026_07_CIN_BAL,CIN@BAL,7,spread,kalshi,CIN,5.5,-276,0.603,0.0,0.734,-0.178,0.0,2.57,,KXNFLSPREAD-26OCT25CINBAL-BAL6,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25cinbal
+2026_07_CIN_BAL,CIN@BAL,7,spread,kalshi,CIN,1.5,-131,0.5,0.0,0.567,-0.119,0.0,0.52,PLAY CIN +3.0,KXNFLSPREAD-26OCT25CINBAL-BAL2,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25cinbal
+2026_07_CIN_BAL,CIN@BAL,7,spread,kalshi,CIN,2.5,-148,0.524,0.0,0.597,-0.121,0.0,1.52,PLAY CIN +3.0,KXNFLSPREAD-26OCT25CINBAL-BAL3,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25cinbal
+2026_07_TB_CAR,TB@CAR,7,spread,kalshi,CAR,-3.5,-137,0.506,0.0,0.578,-0.124,0.0,1.44,,KXNFLSPREAD-26OCT25TBCAR-CAR4,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25tbcar
+2026_07_TB_CAR,TB@CAR,7,spread,kalshi,CAR,-4.5,-121,0.477,0.0,0.548,-0.128,0.0,0.44,,KXNFLSPREAD-26OCT25TBCAR-CAR5,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25tbcar
 2026_07_SF_ATL,SF@ATL,7,spread,kalshi,SF,-5.5,-142,0.482,0.0,0.587,-0.179,0.0,0.43,,KXNFLSPREAD-26OCT25SFATL-SF6,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25sfatl
-2026_07_CIN_BAL,CIN@BAL,7,spread,kalshi,CIN,4.5,-251,0.58,0.0,0.715,-0.189,0.0,1.57,,KXNFLSPREAD-26OCT25CINBAL-BAL5,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25cinbal
 2026_07_SF_ATL,SF@ATL,7,spread,kalshi,SF,-3.5,-199,0.535,0.0,0.666,-0.197,0.0,2.43,,KXNFLSPREAD-26OCT25SFATL-SF4,https://kalshi.com/markets/kxnflspread/pro-football-spread/kxnflspread-26oct25sfatl
