@@ -1,6 +1,20 @@
 game,week,side,model_line,consensus,kalshi_line,call,live,best_book,side_line,price,edge_vs_best,p_cover,ev_per_dollar,books_seen,kalshi_home_yes,kalshi_side,kalshi_ask,kalshi_prob_edge,kalshi_ev_per_dollar
+CIN@BAL,7,CIN,0.1,2.17,2.17,,False,kalshi,3.5,-126.0,3.43,0.63,0.13,1,59.0,CIN,43.0,0.088,0.114
+PIT@NO,7,PIT,-3.7,-2.5,-2.5,,False,kalshi,-3.5,134.0,0.25,0.472,0.105,1,46.5,PIT,55.0,0.07,0.067
+TB@CAR,7,CAR,6.1,1.02,1.02,PLAY CAR -1.0,False,kalshi,-2.5,-131.0,3.59,0.619,0.092,1,59.5,CAR,61.0,0.073,0.067
 DAL@GB,6,GB,1.7,-1.5,-0.19,PLAY GB +1.5,False,kalshi,-1.5,101.0,0.19,0.52,0.046,1,49.5,GB,50.0,0.053,0.059
 WAS@SF,6,WAS,8.9,7.5,7.42,,False,kalshi,9.5,-131.0,0.58,0.56,-0.013,1,78.5,WAS,22.0,0.046,0.125
-ARI@LA,6,ARI,10.6,12.5,-1.61,skip ARI +12.5 (off blowout loss),True,,,,,,,0,,,,,
-LAC@KC,6,LAC,9.5,7.5,17.33,,True,,,,,,,0,,,,,
-BUF@LV,6,BUF,-8.3,-5.5,-6.86,,True,,,,,,,0,,,,,
+NE@CHI,7,CHI,2.2,2.66,2.66,,False,kalshi,-1.5,-131.0,0.71,0.535,-0.057,1,57.0,NE,44.0,0.007,-0.044
+SF@ATL,7,SF,-5.9,-4.62,-4.62,,False,kalshi,-4.5,-116.0,1.44,0.506,-0.057,1,32.5,ATL,33.0,0.01,-0.029
+ARI@LA,6,ARI,10.6,12.5,0.24,skip ARI +12.5 (off blowout loss),True,,,,,,,0,,,,,
+LAC@KC,6,LAC,9.5,7.5,15.75,,True,,,,,,,0,,,,,
+BUF@LV,6,BUF,-8.3,-5.5,-6.79,,True,,,,,,,0,,,,,
+NYG@HOU,7,NYG,8.7,9.6,9.6,,False,,,,,,,0,75.5,NYG,25.0,0.022,0.013
+IND@MIN,7,IND,8.4,7.72,7.72,,False,,,,,,,0,71.0,MIN,72.0,0.016,-0.011
+MIA@NYJ,7,MIA,0.2,6.73,6.73,PLAY MIA +6.7,False,,,,,,,0,68.5,MIA,34.0,0.179,0.389
+CLE@TEN,7,TEN,-0.8,-1.41,-1.41,,False,,,,,,,0,46.0,TEN,48.0,0.018,-0.039
+DEN@ARI,7,DEN,-6.6,-5.96,-5.96,,False,,,,,,,0,33.5,DEN,69.0,0.015,-0.035
+GB@DET,7,DET,5.7,3.55,3.55,,False,,,,,,,0,60.0,DET,63.0,0.059,0.019
+LA@LV,7,LV,-6.3,-6.54,-6.54,,False,,,,,,,0,32.0,LV,35.0,0.006,-0.11
+KC@SEA,7,SEA,2.3,1.23,1.23,,False,,,,,,,0,53.5,SEA,54.0,0.031,0.016
+DAL@PHI,7,PHI,-1.9,-5.77,-5.77,PLAY PHI +5.8,False,,,,,,,0,34.0,PHI,35.0,0.106,0.218
